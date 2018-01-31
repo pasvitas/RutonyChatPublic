@@ -1,0 +1,17 @@
+{
+    "params": [
+        {
+          "name": "Maximum",
+          "desc": {
+            "russian": "Ограничение ставки",
+            "english": "Max bet",
+            "tchinese": "Max bet"
+          },
+          "type": "integer",
+          "default": 1000,
+          "min":1,
+          "max": 100000
+          
+        }
+    ]
+}
